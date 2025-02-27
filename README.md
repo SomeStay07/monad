@@ -3,9 +3,8 @@ A premium iOS application designed for managing your cryptocurrency portfolio an
 
 ![image](https://github.com/user-attachments/assets/55c25d39-fda5-4b58-a8be-7fd02efc8c6e)
 ![image](https://github.com/user-attachments/assets/b212f7db-d074-4ab1-b1ff-9f772f1f36e0)
-[temp-Imagej-Fy-IJy.avif](https://postimg.cc/KkJcJJfP)
-[temp-Image-ONBv4k.avif](https://postimg.cc/tZXC3L3R)
-[temp-Image-R66hp8.avif](https://postimg.cc/1VXmTw7L)
+![image](https://github.com/user-attachments/assets/94053897-58bc-46d1-a772-640cb3f09d77)
+![image](https://github.com/user-attachments/assets/a7db104d-7da2-4b11-9f58-43221ad92355)
 
 
 # Overview
