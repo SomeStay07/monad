@@ -1,6 +1,8 @@
 # Monad iOS Portfolio & Swap App
 A premium iOS application designed for managing your cryptocurrency portfolio and swapping tokens on the Monad blockchain. This project combines modern UI/UX design with advanced blockchain features to deliver an unparalleled user experience.
 
+![First pic](https://postimg.cc/w34TN47H)
+
 # Overview
 Monad iOS Portfolio & Swap App is an innovative solution that allows users to:
 
